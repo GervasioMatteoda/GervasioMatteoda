@@ -6,7 +6,7 @@
 <!-- Links -->
 <h3 align="center">Contáctame:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gervasio-jos%C3%A9-matteoda-9511482a7/">
+  <a href="https://www.linkedin.com/in/gervasio-jose-matteoda/">
     <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:gjmatteoda@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
